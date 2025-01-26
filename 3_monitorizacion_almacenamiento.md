@@ -12,7 +12,7 @@ El comando `free` muestra el uso de la memoria RAM y swap.
 
 ### Ejemplo de uso y salida
     free -h
-IMAGEN---------------------------------------------------------------------------------
+![](https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/freeH.png)
 
 ## Conclusión
 La salida muestra la memoria total, utilizada, libre y el uso del swap en un formato fácil de leer.
@@ -28,7 +28,7 @@ El comando `df` muestra información sobre el uso de los sistemas de archivos.
 
 ### Ejemplo de uso y salida
     df -h
-IMAGEN---------------------------------------------------------------------------------
+![](https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/dfH.png)
 
 ## Conclusión
 `df -h` proporciona una visión general del uso del disco en todos los sistemas de archivos montados.
@@ -44,7 +44,7 @@ El comando `du` calcula el espacio utilizado por archivos y directorios.
 
 ### Ejemplo de uso y salida
     du -sh /home/user
-IMAGEN---------------------------------------------------------------------------------
+![](https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/du.png)
 
 ## Conclusión
 La salida muestra el espacio total utilizado en el directorio /home/user.
