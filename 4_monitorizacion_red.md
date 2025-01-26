@@ -9,7 +9,7 @@ La monitorización de la red es importante para verificar la conectividad, el tr
 
 ### Ejemplo de uso y salida
     sudo tcpdump -i eth0
-IMAGEN---------------------------------------------------------------------------------
+![](https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/tcpdump.png)
 
 ## Conclusión
 `tcpdump` muestra el tráfico en la interfaz de red `eth0`, lo que permite analizar las conexiones activas.
@@ -21,7 +21,7 @@ IMAGEN--------------------------------------------------------------------------
 
 ### Ejemplo de uso y salida
     sudo tcptrack -i eth0
-IMAGEN---------------------------------------------------------------------------------
+![](https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/tcptrack.png)
 
 ## Conclusión
 `tcptrack` muestra las conexiones TCP activas, las direcciones IP de origen y destino, y la cantidad de datos transferidos.
@@ -33,7 +33,7 @@ IMAGEN--------------------------------------------------------------------------
 
 ### Ejemplo de uso y salida
     sudo iptraf-ng
-IMAGEN---------------------------------------------------------------------------------
+![](https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/iptraf-ng.png)
 
 ## Conclusión
 `iptraf-ng permite monitorear el tráfico de red en tiempo real, mostrando detalles como conexiones activas y estadísticas de tráfico.
@@ -48,6 +48,7 @@ IMAGEN--------------------------------------------------------------------------
 
 ### Ejemplo de uso y salida
     netstat -a
+![](https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/netstat.png)
 
 ## Conclusión
 `netstat -a` muestra todas las conexiones activas y los puertos abiertos en el sistema.
