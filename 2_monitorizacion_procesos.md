@@ -13,7 +13,7 @@ El comando `ps` se utiliza para obtener una instantánea de los procesos en ejec
 
 ### Ejemplo de uso y salida
     ps aux
-[https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/psAux.png]
+![](https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/psAux.png)
 
 ## Conclusión
 El comando muestra una lista completa de todos los procesos del sistema, incluyendo detalles como el usuario, PID, uso de CPU, memoria y el tiempo de ejecución.
@@ -30,7 +30,7 @@ El comando `top` proporciona una visualización dinámica y en tiempo real del u
 
 ### Ejemplo de uso y salida
     top M
-[https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/topM.png]
+![](https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/topM.png)
 
 ## Conclusión
 El comando `top` ordenado por memoria muestra los procesos que más memoria están consumiendo en tiempo real.
@@ -45,7 +45,7 @@ El comando `top` ordenado por memoria muestra los procesos que más memoria est�
 
 ### Ejemplo de uso y salida
     htop --tree
-[https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/htopTree.png]
+![](https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/htopTree.png)
 
 ## Conclusión
 `htop --tree` presenta los procesos organizados jerárquicamente, lo que facilita la visualización de las relaciones entre procesos padre e hijo.
@@ -57,7 +57,7 @@ El comando `top` ordenado por memoria muestra los procesos que más memoria est�
 
 ### Ejemplo de uso y salida
     atop
-[https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/atop.png]
+![](https://github.com/xDaMoDzZ/MONITORIZACION/blob/master/img/psAux.png)
 
 ## Conclusión
 `atop` proporciona una vista detallada del sistema, permitiendo ver el uso de los recursos con mayor granularidad, y también permite ver registros históricos.
